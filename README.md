@@ -18,3 +18,4 @@ This project was initially hosted on [**Firebase**](https://yt-thumbnail-downloa
 > License: [GNU General Public License v3.0](https://github.com/RajputSingh014/YouTube-Thumbnail-Downloader/blob/master/LICENSE.md)
 
 ![YouTube Thumbnail Downloader](https://img.shields.io/badge/YouTube-Thumbnail%20Downloader-green.svg)
+cv
